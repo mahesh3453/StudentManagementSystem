@@ -653,7 +653,7 @@
                         class="form-control-custom" 
                         id="email" 
                         name="email" 
-                        placeholder="e.g., john.doe@example.com" 
+                        placeholder="e.g., example@gmail.com" 
                         required
                         pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
                         title="Please enter a valid email address"
@@ -673,7 +673,7 @@
                         class="form-control-custom" 
                         id="phone" 
                         name="phone" 
-                        placeholder="e.g., +1 234 567 8900"
+                        placeholder="e.g., +91 1234567890"
                         pattern="[0-9+\-\s]+"
                         title="Please enter a valid phone number"
                         oninput="updateProgress()"
